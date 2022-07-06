@@ -108,7 +108,7 @@ ul li a{
     font-size: 14px;
     margin-bottom: 16px;
     border-radius: 6px;
-    transition: background 400ms;
+    transition: background 300ms;
 }
 
 /* pseudo-class*/
